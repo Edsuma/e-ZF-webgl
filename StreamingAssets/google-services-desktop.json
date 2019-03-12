@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600677734488",
+    "firebase_url": "https://e-zf-ar.firebaseio.com",
+    "project_id": "e-zf-ar",
+    "storage_bucket": "e-zf-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600677734488:android:78eabc498441a06d",
+        "android_client_info": {
+          "package_name": "com.MurungiCreative.eZF_AR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600677734488-4ur565k56gij62a2364b350k8drbai0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PzBxK5eRgJE9bfjs-KFGfFkx5BZFw1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
